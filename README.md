@@ -1,4 +1,4 @@
-# Data-Structures-and-Algorithms 🧮
+# Data Structures and Algorithms 🧮
 Welcome to my Data Structures and Algorithms (DSA) practice repository! 🚀 In this repository, you'll find my solutions to various DSA problems that I've encountered on platforms like LeetCode, HackerRank, and Codeforces. The primary goal of this repository is to enhance my problem-solving skills and share my solutions with the community.<br>
 
 # What's Inside ❓
