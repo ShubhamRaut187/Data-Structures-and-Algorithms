@@ -8,3 +8,6 @@ A stack is linear data structure that follows the Last In, First Out (LIFO) prin
 **isEmpty**: Checks if the stack is empty.
 
 ### Time complexity for basic stack operations (push,pop,peek,isEmpty) is O(1). 🕧
+
+## How a stack looks ❓
+![Stack](https://fullyunderstood.com/wp-content/uploads/2020/02/stack.gif)
